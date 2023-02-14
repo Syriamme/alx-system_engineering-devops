@@ -1,1 +1,1 @@
-Shell scripting
+shell scripting
